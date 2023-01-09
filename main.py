@@ -72,4 +72,3 @@ while True:
         input()
     except KeyboardInterrupt:
         print("You actually thought you could get a terminal out of me lol")
-        input("Press enter to go back to the start")
