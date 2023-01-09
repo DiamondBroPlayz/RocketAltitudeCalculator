@@ -1,6 +1,6 @@
 # Rocket Altitude Calculator
 
-This python project will detect how far your rocket will go and show you what planet you'll reach!
+This python project will detect how far your rocket will go and show you some extra statistics!
 
 # 
 
