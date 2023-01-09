@@ -70,3 +70,6 @@ while True:
             f.write(str(e) + "\n")
         print("Uh oh! We ran into an error! Press enter to re-try!")
         input()
+    except KeyboardInterrupt:
+        print("You actually thought you could get a terminal out of me lol")
+        input("Press enter to go back to the start")
